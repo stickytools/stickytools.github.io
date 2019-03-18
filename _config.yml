@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Sticky tools
-description: A collection of cross platform Swift frameworks for encoding, persistence, and concurrency management.
+description:
 google_analytics: UA-102615840-6
 github:
   repository_url: https://github.com/stickytools
